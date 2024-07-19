@@ -4,11 +4,14 @@
 
 > Contexto
 
-Um projeto que tem como objetivo fazer o escopo de um formulário.
+Um projeto que tem como objetivo fazer um formulário utilizando de front e back-end,
+utilizando para armazenamento de dados o servidor local do xampp
 
 ## Tecnologias
 - HTML
 - CSS
+- PHP
+- XAMPP
 - Git e Github
 
 ## Contato
